@@ -15,4 +15,8 @@ public class ArithmaticClass {
   public int multiply() {
     return num1 * num2;
   }
+
+  public int substract() {
+    return num1 - num2;
+  }
 }

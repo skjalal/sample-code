@@ -3,6 +3,7 @@ public class Main {
     ArithmaticClass arithmaticClass = new ArithmaticClass(10, 20);
     System.out.println(arithmaticClass.add());
     System.out.println(arithmaticClass.multiply());
+    System.out.println(arithmaticClass.substract());
 
     StringOprtation stringOprtation = new StringOprtation();
     System.out.println(stringOprtation.toUppercase("java"));
